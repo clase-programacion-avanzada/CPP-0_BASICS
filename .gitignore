@@ -11,6 +11,15 @@
 *.o
 *.obj
 
+0_cpp_variables
+1_cpp_if_statement
+2_cpp_loops
+3_cpp_functions
+4_cpp_arrays_matrix
+5_cpp_structs
+6_cpp_create_a_menu
+7_cpp_header_files
+8_cpp_full_program
 # Precompiled Headers
 *.gch
 *.pch
