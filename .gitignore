@@ -20,6 +20,9 @@
 6_cpp_create_a_menu
 7_cpp_header_files
 8_cpp_full_program
+
+*.s
+*.out
 # Precompiled Headers
 *.gch
 *.pch
